@@ -10,7 +10,8 @@ We were around 6 of them in the project.
 # Tell me about yourself?
 
 ```
-I am Maheswar Reddy currently working as a DevOps Engineer in DXC. Technology, Bangalore, I have been working with this organization for last 2.8 years.
+I am Maheswar Reddy currently working as a DevOps Engineer in DXC. Technology, Bangalore, I have been working with this organization 
+for last 2.8 years.
 
 Coming to My education I completed my graduation in Sri Venkateshwara Institute of Technology, Anantapur.
 
