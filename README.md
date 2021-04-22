@@ -27,7 +27,27 @@ for last 2.8 years.
 
 Coming to My education I completed my graduation in Sri Venkateshwara Institute of Technology, Anantapur, Andhra Pradesh.
 
-Coming to my family we were 5 members, 2 younger sisters, mother and father.
+Coming to my roles and Responsibilities:
+
+• Creating Artifacts Files using Maven. 
+
+• Experience with Configuration Management Tools (Ansible). 
+
+• Used Nexus to store the generated artifacts and versioning the artifacts with timestamp. 
+
+• Created continuous integration system using Git, Maven, Jenkins. 
+
+• Deployed applications using CI/CD tools like Jenkins. 
+
+• Creating new build jobs, Plugins installation and management, setting up master/slaves using Jenkins. 
+
+• Integrating GitHub with Jenkins and Nexus in continuous integration and configured SCM with Poll SCM build trigger.
+
+• Writing playbooks for installing and configuring the EC2 instances and automate deployments.
+
+• Deploying the artifacts in environments like DEV, QA, UAT with ansible and Jenkins. 
+
+• Worked on Docker container, attaching to a running container, sharing the data b/w containers, and managing containers.
 
 That’s all about me.
 
